@@ -1,0 +1,6 @@
+# Xcode
+
+Swift.gitignore
+
+Pods/
+Podfile.lock
